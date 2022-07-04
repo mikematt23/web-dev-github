@@ -1,2 +1,2 @@
-"reviewing git"
+"understanding git git"
 "second commit"
